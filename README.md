@@ -119,7 +119,7 @@ Pull requests are welcome. For a big change, open an issue first so we can talk 
 
 Distributed under the MIT License. See `LICENSE` for details.
 
-Website link - https://ai.studio/apps/746ab83e-4503-42c6-925b-11a406bf1b93?fullscreenApplet=true
+Website link - https://ogcinematrix.netlify.app/
 
 ---
 
