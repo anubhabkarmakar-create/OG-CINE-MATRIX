@@ -1,0 +1,7 @@
+{
+  "name": "OG CINE MATRIX",
+  "description": "A unified database and discovery platform for Movies, Web Series, and Anime with OTT stream availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
